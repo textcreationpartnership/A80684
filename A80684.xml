@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The country-mans nevv common-wealth. Being an exact epitome of many witty sentences, pithy sayings, quaint observations, both divine and morall. Partly collected and gathered out of the best approved authors, both moderne and domesticke. Intended for private use, but thought fit to be published for the good of all.</title>
+         </titleStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80684</idno><idno type="EEBO-CITATION">99867274</idno>
+  <idno type="VID">119579</idno>
+  <idno type="EEBO-PROQUEST">2248507631</idno>
+  
+            <idno type="STC">Wing C6555</idno>
+            <idno type="STC">Thomason E1190_2</idno>
+            <idno type="STC">ESTC R208313</idno>
+            <idno type="PROQUEST">99867274</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867274e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119579)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1190[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The country-mans nevv common-wealth. Being an exact epitome of many witty sentences, pithy sayings, quaint observations, both divine and morall. Partly collected and gathered out of the best approved authors, both moderne and domesticke. Intended for private use, but thought fit to be published for the good of all.</title>
+               </titleStmt>
+               <extent>[4], 41, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Harper, and are to be sold at his shop at the Bible and Harpe in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 22. 1646"; the 7 in the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wit and humor --  Early works to 1800.</term>
+               <term type="topical_term">Maxims --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119579:1"/>
+            <p>
+               <hi>The Country-mans</hi> NEVV COMMON-WEALTH.</p>
+            <p>Being an exact Epitome of many witty sentences, pithy sayings, quaint observations, both Divine and Morall.</p>
+            <p>Partly collected and gathered out of the best approved Authors, both Moderne and Domesticke.</p>
+            <p>Intended for private use, but thought fit to be published for the good of all.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Harper,</hi> and are to be sold at his shop at the Bible and Harpe in Smithfield, 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119579:2"/>
+            <pb facs="tcp:119579:2"/>
+            <head>To the Reader.</head>
+            <l>THat Commonwealth doth alwaies firm<g ref="char:EOLhyphen"/>ly stand,</l>
+            <l>When as Religion walketh hand in hand</l>
+            <l>With Vertue, and have both their due re<g ref="char:EOLhyphen"/>gard,</l>
+            <l>While merit doth obtaine a faire reward.</l>
+            <l>Needs must this New Commonwealth then florish,</l>
+            <l>Which doth reprove black vice, and vertue cherish,</l>
+            <l>And doth containe more treasure in these lines,</l>
+            <l>Then lyeth hidden in the Indian Mines:</l>
+            <l>Whose glittering gold is mixed with much Oare,</l>
+            <l>But this same happy Commonwealth hath store</l>
+            <l>Of golden sentences, which are sweetly fram'd,</l>
+            <l>By which rich knowledge may be easily gain'd</l>
+            <l>Whose value doth exceed gold which is hid</l>
+            <l>In the earths bowtls, as a thing forbid.</l>
+            <pb facs="tcp:119579:3"/>
+            <l> But in this Commonwealth you here shall finde</l>
+            <l>Wisdome, whose beauty doth adorne the minde;</l>
+            <l>And since that contraries lively doe declare</l>
+            <l>Each others nature, when wee them compare</l>
+            <l>Together, as black doth set forth the white,</l>
+            <l>And darkenesse doth give lustre to the light,</l>
+            <l>So vertue by her contrary doth appeare</l>
+            <l>More beauteous, and doth shine more bright and cleare:</l>
+            <l>Wherefore wee thinke that wee have matched right</l>
+            <l>Each vertue with her neighbouring opposite,</l>
+            <l>That you their beauty may both see and love,</l>
+            <l>And hating vice, faire vertue may approve:</l>
+            <l>These Sentences in these few lines enrold,</l>
+            <l>You may for silver buy, which are worth gold.</l>
+         </div>
+      </front>
+      <body>
+         <div type="florilegium">
+            <pb n="1" facs="tcp:119579:3"/>
+            <div type="part">
+               <head>Of God.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Imonides the more he studied to know what God was, the har<g ref="char:EOLhyphen"/>der it did seeme to him.</p>
+               <p>God is called a Well be<g ref="char:EOLhyphen"/>cause he hath all good things in himselfe, and that he doth communicate to his servants without any hinderance to him<g ref="char:EOLhyphen"/>selfe.</p>
+               <p>As much doe wee owe to God for dan<g ref="char:EOLhyphen"/>gers from which he hath delivered us, as for the Dignities whereunto he hath raised us.</p>
+               <p>God useth us not as our offences deserve, but as his mercy willeth.</p>
+               <p>If God helpe hee is mercifull, if not, wee must not thinke him unjust.</p>
+               <p>God though hee be Omnipotent, could never make a Creature like himselfe.</p>
+               <p>God is high, if thou lift up thy selfe to him, hee flyeth from thee; but if thou humble thy selfe to him, hee commeth downe to thee.</p>
+               <p>Now seeing I have spoken of the mercies of God, I hope I shall not digresse much from
+<pb n="2" facs="tcp:119579:4"/>the matter if I speake something of his Judge<g ref="char:EOLhyphen"/>ments.</p>
+               <p>So detestable (in the sight of God) is the sin of Sacriledge, that hee punished it in those that spoyled the vaine Temples of the Hea<g ref="char:EOLhyphen"/>then.</p>
+               <p>Episus King of Arcadia for breaking up of Neptunes Temple was stroken blind.</p>
+               <p>Mardorus spoyling of Circes Temple, was stroken and with all his Souldiers.</p>
+               <p>Alexanders Souldiers seeking to spoile the Temple of the same Goddes were flaine with lightning.</p>
+               <p>Scipios Souldiers that robbed the Temple at Tolossa dyed all miserably.</p>
+               <p>And I make no doubt but misery will be the end of those miscreants of our time, which (most sacriligeously) have spoiled the Temples of the true God. But wee must waite Gods leasure, hee will bring all things to good end when he sees time; I might have spoken more on so divine a Subject, (but as it is the saying of a wise man) Divinitie can<g ref="char:EOLhyphen"/>not be defined, and I doe not love to exer<g ref="char:EOLhyphen"/>cise my selfe in things that be too high for mee: wherefore I proceede to the next.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:119579:4"/>
+               <head>Of Heaven.</head>
+               <p>HEaven is the Seate of God, and the Earth is his Foot-stoole.</p>
+               <p>As Hell is the place of all horrour, so Hea<g ref="char:EOLhyphen"/>ven is the haven of all happinesse.</p>
+               <p>Heaven is the Church of the Elect, the soule of the just, and the field of the faithfull.</p>
+               <p>It is hard to obtaine Heaven, but easie to keepe from thence, for the way to Heaven is neerer then the way to Hell.</p>
+            </div>
+            <div type="part">
+               <head>Of Angells.</head>
+               <p>EVery ones Angel that hath governed him in this life, shall at the last day bring forth him whom he hath governed to Judgement. Origen.</p>
+               <p>Angels have charge to conduct men; wise<g ref="char:EOLhyphen"/>dome to instruct men, and grace to preserve men.</p>
+               <p>Angels were the first Creatures that ever God made.</p>
+               <p>Every true Minister is the Angel of God. Augustine.</p>
+               <p>There are nine orders of Angels, Angels, Archangels, Vertues, powers, Principalities,
+<pb n="4" facs="tcp:119579:5"/>Dominations, Thrones, Cherubins, and Scra<g ref="char:EOLhyphen"/>phins. Thales.</p>
+            </div>
+            <div type="part">
+               <head>Of Vertue.</head>
+               <p>HE that desireth to be called vertuous, it is first requisite that he be good.</p>
+               <p>Vertue is health, Vice is sicknesse. Petra.</p>
+               <p>Vertue is a Stranger upon Earth, but a Ci<g ref="char:EOLhyphen"/>tizen in Heaven.</p>
+               <p>Vertue goes not by birth, nor discretion by yeeres, for there are old fooles, and yong Counsellors. Guevarra.</p>
+               <p>The first step to vertue, is to love vertue in another man.</p>
+               <p>Pithagoras compareth vertue to the Letter (y) which is small at the foot, but wide at the head, hard to obtaine, but pleasant to enjoy.</p>
+               <p>Vertue in generall, is a Castle impregnable, a River that needes no rowing, a Sea that mo<g ref="char:EOLhyphen"/>veth not, a Treasure endlesse, an Army invin<g ref="char:EOLhyphen"/>cible, a Burden supportable, an ever turning spie, a signe deceitlesse, a plaine way faillesse, a true guide without guile, a balme that cu<g ref="char:EOLhyphen"/>reth all diseases, an eternall honour that never dieth. Aurelius.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:119579:5"/>
+               <head>Of Truth.</head>
+               <p>THere is nothing soe secretly hid, but time and truth will make manifest.</p>
+               <p>Truth is the law of Arts,</p>
+               <p>Truth may be often blamed, but never shamed.</p>
+               <p>In shortest sayings, is most truth.</p>
+               <p>Truth is a good cause, and needes no Ora<g ref="char:EOLhyphen"/>tory.</p>
+               <p>Foure good Mothers, have foure bad Daughters, Truth hath hatred, Prosperity hath pride, security hath perill, and familia<g ref="char:EOLhyphen"/>rity hath contempt.</p>
+            </div>
+            <div type="part">
+               <head>Of Conscience.</head>
+               <p>THere is no surer condemnation, then that of a mans owne conscience.</p>
+               <p>A guilty conscience is a worme that biteth and never ceaseth.</p>
+               <p>Wicked men thinke it sufficient to lose a good conscience on the Holydaies, and worke by their wits all the Weeke.</p>
+               <p>A grieved conscience is the sicknesse of the soule.</p>
+               <p>The conscience is a booke, wherein all our
+<pb n="6" facs="tcp:119579:6"/>offences are written. Origen.</p>
+            </div>
+            <div type="part">
+               <head>Of Peace.</head>
+               <p>HE justly deserveth the scourge of warre, that willfully refuseth the conditions of peace.</p>
+               <p>Concord in a Commonwealth is like har<g ref="char:EOLhyphen"/>mony in Musick.</p>
+               <p>As much as in you lieth (saith St. Paule) live peaceably with all men.</p>
+               <p>Be at peace with men, but at war with vi<g ref="char:EOLhyphen"/>ces. Demosthenes.</p>
+               <p>Seeing for the obtaining of this peace which wee now so much want, it is needful that wee make use of prayer, that shall be my next subject.</p>
+            </div>
+            <div type="part">
+               <head>Of Prayer.</head>
+               <p>THe just mans prayer appeaseth the wrath of God.</p>
+               <p>Prayer is not to be attempted with force but with meekenesse of spirit. Augustin.</p>
+               <p>The prayer of the afflicted augmenteth the Cloudes.</p>
+               <p>The Romans upon certaine high daye<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prayed for increase of wealth, which Scipi<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:119579:6"/>(being Censor) changed, saying, it was suffi<g ref="char:EOLhyphen"/>cient to pray to have it preserved, such as it was.</p>
+               <p>Let prayers ascend, that grace may des<g ref="char:EOLhyphen"/>cend.</p>
+               <p>He that knoweth how to pray well, knoweth how to live well; pray unto God at the beginning of all thy workes that thou maist bring them to a happy end. Socrates.</p>
+               <p>Heaven shall cease to be, when it shall cease to run, and men shall cease to prosper, when they cease to pray.</p>
+            </div>
+            <div type="part">
+               <head>Of Blessednesse.</head>
+               <p>THat man cannot be truely blessed in whom is no virtue.</p>
+               <p>Blessednesse is an outward quietnesse.</p>
+               <p>A blessed man cannot erre.</p>
+               <p>If thou knowest all that ought to be knowne, thou art truely blessed.</p>
+               <p>True blessednesse consisteth in a godly life and a happy death.</p>
+               <p>Whether I shall erre in joyning love to blessednesse or no, I doubt, but ile venture.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:119579:7"/>
+               <head>Of Love.</head>
+               <p>Love is an unreasonable desire, which com<g ref="char:EOLhyphen"/>meth swiftly, and departeth slowly.</p>
+               <p>A friend loveth alwaies, a Lover but for a time.</p>
+               <p>The loving of beauty, is the forgetting of reason. Socrates.</p>
+               <p>Cupid must not be resisted with courage, but entertained with courtesie.</p>
+               <p>Love is a worme that commonly lives in the eye, and dyes in the heart.</p>
+               <p>To be free from love is strange, but to thinke scorne to be beloved is monstrous.</p>
+               <p>He that feedes upon fancy, may be trou<g ref="char:EOLhyphen"/>bled with the discession,</p>
+               <p>Love gotten by witchcraft is as unplea<g ref="char:EOLhyphen"/>sant, as fish taken with medicines is unwhol<g ref="char:EOLhyphen"/>some.</p>
+               <p>A man hath choyce to begin love, but not to end it.</p>
+               <p>To have a faire Mistris in love, and want gold to maintaine her, to have store of people to sight, and no penny to pay them, will make your Mistris wild, and your Souldiers lame.</p>
+               <p>He that makes his Mistresse a goldfinch,
+<pb n="9" facs="tcp:119579:7"/>may perhaps finde her a wagtaile.</p>
+               <p>He that hath sore eyes must not looke at the candle, nor he that would leave his love fall to remembring his Lady: so the one ma<g ref="char:EOLhyphen"/>keth his eyes to smart, the other causeth his heart to bleed.</p>
+               <p>The passionate Lover if he saile, love is his Pilot, if he walke, love is his Companion, if he sleepe, love is his pillow.</p>
+               <p>Sophocles being demanded what harme he would wish his enemy; answered that he might love where he was not fancied.</p>
+               <p>There are divers properties in love, selfe love is the roote of mischiefe, lascivious love, the roote of remorse, wanton love, the co<g ref="char:EOLhyphen"/>wards warfare, pure love never saw the face of feare.</p>
+               <p>As love is divine with loyalty; so is it a hell with jealousie.</p>
+               <p>The most contrary to love of all the passions of the heart is hate; but because it is so soone turned thereinto, it shall be the next.</p>
+            </div>
+            <div type="part">
+               <head>Of Hate.</head>
+               <p>ENvie is faigned by the Poets to dwell in a darke Cave, being pale and leane, looking a squint, abounding with gaule, her teeth
+<pb n="10" facs="tcp:119579:8"/>blacke, never rejoycing but in others harmes.</p>
+               <p>The envious man is fed with dainty meat, so he continually feedes upon his one heart.</p>
+               <p>Fooles are known by their bablings, Cocks by their combs, Lions by their clawes, and an envious man by his manner of vices: En<g ref="char:EOLhyphen"/>vy is the most ancient, Pride the greatest, and gluttonie the foulest.</p>
+               <p>I alow not of envy (saith Euripides) but for doing of good I would be envied.</p>
+            </div>
+            <div type="part">
+               <head>Of Women.</head>
+               <p>VVOmen were admirable Angels, if by the pride of heart they would not be drawne with Angels to become De<g ref="char:EOLhyphen"/>vills.</p>
+               <p>There is no Creatures in the World, that more desireth honour, and worse keepeth it, then a woman.</p>
+               <p>Women for a little good, looke for greate prayses; but for much evill, no chasticement.</p>
+               <p>A fierce beast and a perrilous enemy, to a Commonwealth, is a wicked woman, for she is of much power to doe evill. Euripides.</p>
+               <p>The Eagle when he soareth highest hovers for a prey, the Salamander is most warme, when he is farthest from the fire, and women
+<pb n="11" facs="tcp:119579:8"/>are most heart hollow, when they are most lip holy.</p>
+               <p>Women in mischiefe are wiser then men.</p>
+               <p>He that hath beene troubled with a crab<g ref="char:EOLhyphen"/>bed Mistresse, may the better endure a curst wife, and he that hath beene troubled with a curst wife, need not care what company he lives in.</p>
+               <p>The depth of a womans heart hath a string that reacheth to the tongues end.</p>
+               <p>Sophocles being asked when he brought in the persons of women, why he made them alwayes good, whereas Euripides made them alwayes bad, answered, I quoth he represent them as they should be, Euripides such as they be.</p>
+               <p>Women if they are beautifull, are to be won with praises, if coy with praiers, if proud with gifts, if covetous with promi<g ref="char:EOLhyphen"/>ses.</p>
+               <p>Women in their loves, oft resemble Apo<g ref="char:EOLhyphen"/>thecaries in their arts, which chuse the weeds for their shops, and leave the fairest slowers in the Garden.</p>
+               <p>A faire woman having Foule conditions, is like a painted Sepulchre full of rotten bones.</p>
+               <p>Trust not a woman when she weepeth, for it is her nature to weepe when she wanteth her will. Socrates.</p>
+               <pb n="12" facs="tcp:119579:9"/>
+               <p> A faire, beautifull and chast woman, is the perfect workemanship of God, the true glory of Angels, the rare miracle of the Earth, the sole wonder of the World. Hermes.</p>
+               <p>The fittest ornament to set forth a woman is beauty, of which next.</p>
+            </div>
+            <div type="part">
+               <head>Of Beauty.</head>
+               <p>BEauty is such a fading good, that it can scarce be possessed before it be vanished.</p>
+               <p>Beauty is a thing that benefits more ano<g ref="char:EOLhyphen"/>ther then it doth those who have it in pos<g ref="char:EOLhyphen"/>session.</p>
+               <p>Beauty without honesty, is compared to poyson preserved in a box of gold.</p>
+               <p>Chuse not thy wife by her beauty, but by her vertues; for her good deeds will remaine when age hath taken away her beauty.</p>
+            </div>
+            <div type="part">
+               <head>Of Dissimulation.</head>
+               <p>HE that dwels neere a Cripple, will soone learne to halt, and he that is conversant with a Dissembler, will soone learne to dif<g ref="char:EOLhyphen"/>femble. Diogenes.</p>
+               <p>Dissembled holinesse, is double iniquity.</p>
+               <p>The flattering enemy is like the melody of
+<pb n="13" facs="tcp:119579:9"/>Sirenes, which sing not to strirre up mitth, but to allure to mishap.</p>
+               <p>It is better to speake the truth in few words, then to keepe silence with deepe dissi<g ref="char:EOLhyphen"/>mulation. Plato.</p>
+               <p>A counterfet disease, is often taken away with a false sirrup.</p>
+               <p>It is better to have an open foe, then a dissembling friend. Pithagoras.</p>
+            </div>
+            <div type="part">
+               <head>Of Folly.</head>
+               <p>LAte wit and unfruitfull wisdome, are next neighbours to folly.</p>
+               <p>To be wanton without wit, is peevishnes, to be witty without wantonnesse, is precise<g ref="char:EOLhyphen"/>nesse.</p>
+               <p>He that askes a question without a doubt, must have answer without reason.</p>
+               <p>A faire person that is a foole, is like a faire house with an evill Host harbred therein. Di<g ref="char:EOLhyphen"/>ogenes.</p>
+               <p>A thing done a foole knoweth, but a wise man foreseeth things to come.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:119579:10"/>
+               <head>Of Flatterers.</head>
+               <p>FLatterers are compared to Swallowes, which in Summer creepe into every house, but at Winter leave nothing behind them but durt.</p>
+               <p>As no Ulter will sleepe where there is no prey; so no flatterer will lurke where there is no gaine.</p>
+               <p>It is better to fall amongst Ravens then amongst flatterers, for the Ravens will not eate a man till he be dead; but flatterers will devoure them alive. Plutarch.</p>
+               <p>Like as a Camelion hath all colours save white; so hath a flatterer all points save ho<g ref="char:EOLhyphen"/>nesty.</p>
+            </div>
+            <div type="part">
+               <head>Of Wit.</head>
+               <p>THe ornaments of wit are more faire then badges of Nobility.</p>
+               <p>One mans will, is another mans wit.</p>
+               <p>Wine is such a whetstone for wit, that if it be oft set thereon, where it found an edge, it will scarce leave a backe.</p>
+               <p>There are three things which argue a good wit, invention, conceiving, and answering.</p>
+               <pb n="15" facs="tcp:119579:10"/>
+               <p> Wit without learning is like a Tree with<g ref="char:EOLhyphen"/>out fruit.</p>
+               <p>Many by wit purchase wealth, but none by wealth purchase wit.</p>
+               <p>
+                  <hi>Non sapit, qui sibi non sapit.</hi> Eur.</p>
+            </div>
+            <div type="part">
+               <head>Of Knowledge.</head>
+               <p>KNowledge is of such a quality, that the more a man knoweth, the more he desi<g ref="char:EOLhyphen"/>reth to know.</p>
+               <p>To know and not to be able to performe, is a double mishap.</p>
+               <p>Alexander the great made so much of knowledge, that he was wont to say, that he was more bound to Aristotle for his learning, then to his Father for his life.</p>
+               <p>In War Iron is better then Gold, and in a mans life, knowledge is better then riches.</p>
+               <p>The best knowledge, is for a man to know himselfe. Socrates.</p>
+               <p>Experience is the Mistresse of age.</p>
+               <p>Socrates gave thanks to God for three things, first, that he was a man, and not a woman, secondly, that he was a Grecian, and not a Barbarian, thirdly, that he was a Phi<g ref="char:EOLhyphen"/>losopher, and not unlearned.</p>
+               <p>He that knoweth not what he ought to
+<pb n="16" facs="tcp:119579:11"/>know, is a brute beast amongst men, he that knoweth no more then he needs to know, is a man amongst brute beasts; but he that knoweth all that is to be knowne, is a God amongst men. Pithagoras.</p>
+            </div>
+            <div type="part">
+               <head>Of Eloquence.</head>
+               <p>BRevity is a great praise of eloquence. Ci<g ref="char:EOLhyphen"/>cero.</p>
+               <p>It is a speciall vertue to speake little and well.</p>
+               <p>Unprofitable eloquence is like Sipres<g ref="char:EOLhyphen"/>trees that are great and tall, but beare no fruit.</p>
+               <p>There are two times when a man should use eloquence: the first, when the matter is ne<g ref="char:EOLhyphen"/>cessary: the second, when he speaketh that which he knoweth.</p>
+            </div>
+            <div type="part">
+               <head>Of Patience.</head>
+               <p>PAtience is a voluntary enduring of hard things, for the desire of virtue. Socrates.</p>
+               <p>It is more safety to forget an injury, then to revenge it. Aurelius.</p>
+               <p>Patience is the best solace against love and fortune, the sweetest medicine for misery is patience, and the only salve for want, is con<g ref="char:EOLhyphen"/>tent.</p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:119579:11"/>
+               <head>Of Temperance.</head>
+               <p>TEmperance calleth a man backe from grosse effects, and carnall appetites, let<g ref="char:EOLhyphen"/>ting him not exceede in foolish rejoycing nor ungodly sorrow. Solon.</p>
+               <p>A young man untemperate and full of car<g ref="char:EOLhyphen"/>nall affections, quickly turneth the body into age and feeblenesse. Anaxagoras.</p>
+               <p>Men must eate to live, and not live to eate.</p>
+               <p>Temperance is rich in most losses, confi<g ref="char:EOLhyphen"/>dent in all perills, prudent in all faults, and happy in it selfe.</p>
+               <p>Trim not thy house with tables and pic<g ref="char:EOLhyphen"/>tures, but paint and guild it with temperance.</p>
+               <p>The parts of temperance, are modesty, shamefacenesse, abstinence, continency, ho<g ref="char:EOLhyphen"/>nesty, moderation, sparingnesse, and sobriety. Plato.</p>
+            </div>
+            <div type="part">
+               <head>Of Kings.</head>
+               <p>THe Majesty of a King is like the light<g ref="char:EOLhyphen"/>ning from the East, and his threates like the noyse of thunder. Solomon.</p>
+               <p>It is necessary for Princes to bestoute, and also rich, that by their stoutnesse they may get
+<pb n="18" facs="tcp:119579:12"/>their owne, and by their riches represse their enemies.</p>
+               <p>It is better for a King to defend his owne Countrey by justice, then conquer anothers by tyranny.</p>
+               <p>Children borne of Kings, are composed of a precious masse, to be seperated from the common sort. Plato.</p>
+               <p>Kings as they are men before God, so are they Gods before men. Lactan.</p>
+               <p>So great is the person and dignity of a Prince that using his authority as he ought, that being here on the Earth, representeth the Majesty of God in Heaven. Ambros.</p>
+               <p>He that defendeth his Countrey with the sword, deserveth honour; but he that main<g ref="char:EOLhyphen"/>taineth it in peace, meriteth more honour. Plato.</p>
+            </div>
+            <div type="part">
+               <head>Of Courtesie.</head>
+               <p>PRoud looks lose hearts, but courteous words win them.</p>
+               <p>Courtesie bewaileth her dead enemies, and therisheth her living friends.</p>
+               <p>As a peg straineth the lute strings; so cour<g ref="char:EOLhyphen"/>tesie straineth the heart strings.</p>
+               <p>
+                  <hi>Hereafter follow some few precepts.</hi>
+               </p>
+               <pb n="19" facs="tcp:119579:12"/>
+               <p> Let not the eye go beyond the eare, nor the tongue beyond the feet. Plato.</p>
+               <p>Chuse rather to live solitary, then in the company of evill women.</p>
+               <p>Be not secure, lest want of care procure thy calamity; nor too carefull, lest pensive thoughts oppresse thee.</p>
+               <p>Speake no more to a stranger in private, then thou wouldest have knowne in publick.</p>
+               <p>Behold thy selfe in a glasse, and if thou seeme beautifull doe such workes as becom<g ref="char:EOLhyphen"/>meth thy beauty, but if foule, then performe with good manners the beauty that thy face wanteth. Socrates.</p>
+               <p>Keepe secret thy mishap lest thy enemy re<g ref="char:EOLhyphen"/>joyce.</p>
+               <p>Strive not in words with thy Parents, though thou tell the truth.</p>
+               <p>Boast not of thy good deedes, lest thy evill also be layd to thy charge.</p>
+            </div>
+            <div type="part">
+               <head>Of Sentences.</head>
+               <p>VVHere sundry flyes bite, the gaule is great, and where every hand flee<g ref="char:EOLhyphen"/>seth, the sheepe goeth naked. Demosthenes.</p>
+               <p>Eagles alwaies fly alone, and they are but sheepe that alwaies flock together.</p>
+               <pb n="20" facs="tcp:119579:13"/>
+               <p> He that bites of every weede to seeke out the nature, may light on poyson, and he that will be sifting of every cloud may be smitten with a thunder bolt.</p>
+               <p>Where the knot is loose the string slippeth, and where the water is shallow no Vessell will ride.</p>
+               <p>He that makes himselfe a sheepe, may be bitten of every woolfe.</p>
+               <p>Where the demand is a jest, the fittest an<g ref="char:EOLhyphen"/>swer is a scoffe.</p>
+               <p>Who will resist love, must either have no wit, or else put out his eyes.</p>
+               <p>Where Doggs fall a snarling, Serpents a hissing, and Women a weeping, the first meanes to bite, the second to sting, and the third to deceive.</p>
+               <p>Love is to a yeelding heart a King, but to a resisting, a Tyrant.</p>
+               <p>It is folly to refuse the helpe of strangers, when wee may have it, and stand in neede thereof.</p>
+            </div>
+            <div type="part">
+               <head>Similitudes.</head>
+               <p>AS golden pillers doe shine upon the soc<g ref="char:EOLhyphen"/>kets of silver, so doth a faire face with a vermous minde.</p>
+               <pb n="21" facs="tcp:119579:13"/>
+               <p> As the strong bitternesse of the Allow tree taketh away the sweetnesse of the sweetest hony; so evill workes corrupt and take away the praise of good deedes.</p>
+               <p>As the savour of stinking carrion is noi<g ref="char:EOLhyphen"/>some to them that smell it, so the speech of fooles is tedious to them that heare it. So<g ref="char:EOLhyphen"/>lon.</p>
+               <p>As men eate divers morsels, which if they should eate whole, would choake them; so by divers dayes wee suffer troubles, which if they should come together, would make an end of us in one day.</p>
+               <p>As it were folly to forsake the cleere foun<g ref="char:EOLhyphen"/>taine, and to drinke puddle water, so it were foolishnesse to forsake the Gospel of Christ, and goe after the bleating of Jeroboams calves in Dan and in Bethell.</p>
+               <p>As wine (in Platoes opinion) is the daugh<g ref="char:EOLhyphen"/>ter of variety; so love (in Iamblicus sensure) is the fruit of idlenesse.</p>
+               <p>As a Vessell is knowne by the sound, whe<g ref="char:EOLhyphen"/>ther it be whole or broken; so men are known by their speech, whether they are wise or foolish. Demosthenes.</p>
+               <p>As he is unfortunate that is poore and de<g ref="char:EOLhyphen"/>formed; so they are not to be accounted hap<g ref="char:EOLhyphen"/>py that are only rich and beautifull.</p>
+            </div>
+            <div type="part">
+               <pb n="22" facs="tcp:119579:14"/>
+               <head>Proverbs.</head>
+               <p>A Little streame seemeth to drive a light Mill.</p>
+               <p>A small score will serve to pay a short rec<g ref="char:EOLhyphen"/>koning.</p>
+               <p>A leane fee, is fit for a lasie Clarke.</p>
+               <p>It is evill halting before a Cripple.</p>
+               <p>Too much familiarity, breeds contempt.</p>
+               <p>After death the Physition.</p>
+               <p>Much coine, much care.</p>
+               <p>In little medling, lieth much rest.</p>
+               <p>Wake not a sleeping Lyon.</p>
+            </div>
+            <div type="part">
+               <head>Of Wisedome.</head>
+               <p>THe first point of wisedome is to know that which is false, the second to discerne that which is true. Lactan.</p>
+               <p>Wisedome is the foode of the soule.</p>
+               <p>All is but lip wisedome, that wanteth ex<g ref="char:EOLhyphen"/>perience.</p>
+               <p>Wisedome teacheth us as well to doe well, as to speake well.</p>
+               <p>Wisdome is a tree that springeth in the heart, and beareth fruit in the tongue.</p>
+               <p>It is a point of great wisdome to know
+<pb n="23" facs="tcp:119579:14"/>whereto the time best serveth.</p>
+               <p>Wisdome garnisheth wealth, and shadow<g ref="char:EOLhyphen"/>eth poverty. Socrates.</p>
+            </div>
+            <div type="part">
+               <head>Hope.</head>
+               <p>HE that will lose a favour for a hope, hath some wit, but small store of wisdome Bias.</p>
+               <p>To be cleane without hope, is a hap inci<g ref="char:EOLhyphen"/>dent to the unhappy man.</p>
+               <p>Hope grounded on God, never faileth, but on the world, never thriveth.</p>
+               <p>A godly and vertuous man ought alwayes to hope well, and to feare nothing.</p>
+               <p>He that thinketh to thrive by hope, may happen to beg in misery. Bion.</p>
+               <p>A cowardly lover without hope, shall ne<g ref="char:EOLhyphen"/>ver gaine faire love with good fortune.</p>
+            </div>
+            <div type="part">
+               <head>Of Charity.</head>
+               <p>CHarity is the scope of all Gods comman<g ref="char:EOLhyphen"/>dements. Chrysostome.</p>
+               <p>Charity increaseth faith, begetteth hope, and maketh us at one with God.</p>
+               <p>A charitable man, is the true lover of God. Severus.</p>
+               <pb n="24" facs="tcp:119579:15"/>
+               <p> To love with all the soule, is to love wise<g ref="char:EOLhyphen"/>ly, to love with all the heart, is to preferre the love of God before all things; to love with all the strength, is manfully to suffer for the truth. Augustine.</p>
+               <p>The measure in loving God, is to love him without measure.</p>
+               <p>All charity is love, but not all love charity.</p>
+               <p>A poore man being in charity is rich; but a rich man without charity is poore.</p>
+               <p>Charity is the way of God to man, and the way of man to God.</p>
+               <p>He alwaies hath to give, that is full of cha<g ref="char:EOLhyphen"/>rity. Bernard.</p>
+               <p>The greatest argument of good love, is to love what God loveth.</p>
+            </div>
+            <div type="part">
+               <head>Humility.</head>
+               <p>HE that gathereth vertues without humi<g ref="char:EOLhyphen"/>lity, casteth dust against the wind. Gre<g ref="char:EOLhyphen"/>gory.</p>
+               <p>The chiefe point of mans humility, is to subject his will to the will of God. Demost<g ref="char:EOLhyphen"/>henes.</p>
+               <p>Happy is that man whose ruling is great, and his spirit humble.</p>
+               <p>The spirit of God delighteth to dwell in
+<pb n="25" facs="tcp:119579:15"/>the heart of the humble man. Erasmus.</p>
+               <p>The best armour of the minde, is humility.</p>
+               <p>There are three degrees of humility: the first; of repentance; the second, of desire of righteousnesse; and the third, of workes of mercy.</p>
+               <p>To the humble minded man, God revea<g ref="char:EOLhyphen"/>leth the knowledge of his truth.</p>
+               <p>Charity with humility purchaseth eterni<g ref="char:EOLhyphen"/>ty.</p>
+               <p>As lowlinesse of heart, maketh a man hie<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y in the favour of God; so meekenesse of words maketh him sinke deepely into the hearts of men.</p>
+               <p>Charity with humility, purchaseth eterni<g ref="char:EOLhyphen"/>ty.</p>
+            </div>
+            <div type="part">
+               <head>Pride.</head>
+               <p>HE that bruseth the Olive-tree with hard iron, fetcheth out no oyle, but water, and he that pricketh a proud heart with perswasi<g ref="char:EOLhyphen"/>ons, purchaseth only hate and envy.</p>
+               <p>Men that have their estates low, and their thoughts high, live alwaies a pensive and dis<g ref="char:EOLhyphen"/>contented life.</p>
+               <p>It is better to live in low content, then in high infamy.</p>
+               <pb n="26" facs="tcp:119579:16"/>
+               <p> Aspiring pride is like a vapour, that ascen<g ref="char:EOLhyphen"/>deth high, but vanisheth away in a smoake. Plato.</p>
+               <p>He that knoweth himselfe best, esteemeth himselfe least.</p>
+               <p>Lewis the eleventh King of France, was wont to say, when pride was in the saddle, mischiefe and shame were on the crupper.</p>
+               <p>Pompey could abide no equall, and Caesar could suffer no superior.</p>
+            </div>
+            <div type="part">
+               <head>Ingratitude.</head>
+               <p>INgratitude challengeth revenge by cust<g ref="char:EOLhyphen"/>ome, and is a sin hatefull before God and man.</p>
+               <p>Impudency, is companion of the monster ingratitude.</p>
+               <p>It is a shamelesse and unthankefull part, alwaies to crave, and never to give. Marcus.</p>
+               <p>Ingratitude loseth all things in himselfe, by forgetting his duty to his friend.</p>
+               <p>Two heads upon one body is a monstrous sight; but one unthankefull heart in a bosome, is more odious to behold. Byas.</p>
+               <p>Nothing sooner waxeth old, then a good turne or benefit.</p>
+               <p>An unthankefull person, is compared to a
+<pb n="27" facs="tcp:119579:16"/>Vessell boared full of holes. Lactan.</p>
+               <p>Plato called Aristotle a Mule for his ingra<g ref="char:EOLhyphen"/>titude.</p>
+               <p>The Lawes of Athens, Persia, and Macedo<g ref="char:EOLhyphen"/>nia, condemned unthankefull persons to death.</p>
+            </div>
+            <div type="part">
+               <head>Of Feare.</head>
+               <p>NO man can be just, except he feare and reverence God.</p>
+               <p>He that feareth God truely, serveth him faithfully, loveth him entirely, prayeth unto him devoutly, and distributeth to the poore liberally.</p>
+               <p>It is the property of a servant to feare for hatred, but a son feareth for love. Ambros.</p>
+               <p>It is meere folly to feare that which wee cannot shun.</p>
+               <p>To demand how many, and not where the enemies are, is a signe of cowardly feare.</p>
+               <p>It is better to feare thy choice, then to rue thy chance.</p>
+               <p>The law of feares was melted in the mould of love, by Christ. Augustine.</p>
+               <p>It is requisite for all men to love God, and to live in his feare, but such as worship him lest any harme should happen to them, are
+<pb n="28" facs="tcp:119579:17"/>like those that hate Tyrants in their hearts, but endeavour to please them, because they would quietly possesse what they enjoy.</p>
+            </div>
+            <div type="part">
+               <head>Of Chastity.</head>
+               <p>CHastity is of sinall force to resist, where wealth and dignity are armed to assault.</p>
+               <p>Chastity is the seale of grace, the staffe of devotion, the marke of the just, the crowne of virginity, the glory of life, and a comfort in martyrdome.</p>
+               <p>Chastity goeth cheape, where gold is not thought deere.</p>
+               <p>Idlenesse is an enemy to chastity.</p>
+               <p>The first step to chastity, is first to know the fault, and next to avoid it.</p>
+               <p>Though the body be never so faire, yet without chastity, it cannot be beautifull.</p>
+               <p>Beauty without chastity, is like a man<g ref="char:EOLhyphen"/>drake apple, faire in shew, but poysonous in tast</p>
+               <p>Amongst all the conflicts of a christian man, none is more hard then of a chast minde, for the sight is continuall, and the victory rare. Cyprian.</p>
+            </div>
+         </div>
+         <div type="collection_of_sayings">
+            <pb n="29" facs="tcp:119579:17"/>
+            <head>Hereafter follow divers sayings, (without distinction) drawne out of va<g ref="char:EOLhyphen"/>riety of Divine, Historicall, Poeti<g ref="char:EOLhyphen"/>call, Politique, Morall, and Humane Writers.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Oracle of Apollo at Delphos, being demanded, why Jupiter should be the chiefe God? Sith Mars was the best Souldier: answered, Mars is valiant, but Jupiter is wise: concluding, that policie is of more force then valour.</p>
+            <p>Wise men prefer and admire the unjustest peace, before the justest war.</p>
+            <p>Custome (though never so ancient) with<g ref="char:EOLhyphen"/>out truth, is but an old errour.</p>
+            <p>If thou art backbited, rejoyce, if guiltlesse; if guilty, amend.</p>
+            <p>Riches and honour are broken pillars, but innocence is an unmoving columbe.</p>
+            <p>It is better for a man to be made a Judge amongst his enemies, then amongst his friends:
+<pb n="30" facs="tcp:119579:18"/>for of his enemies he should make one his friend, but of his friends, one his enemy.</p>
+            <p>Women by nature are more pitifull then men, but being once mooved to anger, they become more envious then a Serpent, more malicious then a Tyrant, and more deceitfull then the Divell. Socrates.</p>
+            <p>Be alwaies doing of somewhat, that the Divell find thee not idle. Hierom.</p>
+            <p>Socrates inviting certaine of his friends to a Banquet, was by some of them reprooved for his slender provision, whereto he answe<g ref="char:EOLhyphen"/>red, if they be vertuous heere is enough, if not, heere is too much.</p>
+            <p>Idlenesse maketh of men, women; of we<g ref="char:EOLhyphen"/>men, beasts; of beasts, monsters. Homer.</p>
+            <p>To straine farther then the sleeve will reach, maketh the arme bare, and to skip be<g ref="char:EOLhyphen"/>yond ones skill, is to leape, but not know where to light.</p>
+            <p>Bias holding was with Ipocrates King of Athens, falling into the lashe of his ene<g ref="char:EOLhyphen"/>mies, his Souldiers fearfully asking him what they should doe? He answered, make report to the living that I dyed valiantly fighting, and I will say to the dead, that you escaped cowardly flying.</p>
+            <p>He that hath but one eye must seare to lose
+<pb n="31" facs="tcp:119579:18"/>it, and he that hath but one vertue must dye ere he ruine it.</p>
+            <p>It is better to be banished ones Countrey with wise men, then to live there still amongst fooles.</p>
+            <p>A silent deed is better then an unprofitable word.</p>
+            <p>He that praises a man openly will not stick to flatter him secretly. Diogenes.</p>
+            <p>In doing what wee ought, deserves no praise, because it is a duty. Augustine.</p>
+            <p>God giveth his judgements by waight, but his mercy without measure. Erasmus.</p>
+            <p>It is treason against God and man for a ser<g ref="char:EOLhyphen"/>vant to strike his Master, but most damnable for a Subject to touch the Lords Anointed.</p>
+            <p>He that of custome makes little account of his Prince, may sweare often, but seldome be beleeved. Byas.</p>
+            <p>As silence is a gift without perill, and containeth many good things in it selfe, so it were better our silence brought our simplici<g ref="char:EOLhyphen"/>ty in question, then to speake either inconve<g ref="char:EOLhyphen"/>niently, idly, or unnecessarily.</p>
+            <p>Women are better to conceive children, then to conceale secrets.</p>
+            <p>Scarcity of others is a most blessed barren<g ref="char:EOLhyphen"/>nesse.</p>
+            <pb n="32" facs="tcp:119579:19"/>
+            <p> Cloudes cannot hide secrets, nor denialls conceale truths. Demosthenes.</p>
+            <p>To play the scoffing foole well, is signe of some wit, but small store of wisdome.</p>
+            <p>Tis good to hold an Asse by the bridle, and a scoffing foole by his wits end.</p>
+            <p>There are in the eye three sorts of teares; the first, of joy, which in old men shew their kindnesse; the second, of greife, which in wretched men shew their misery; the third, of dissimulation, which in women shew their nature.</p>
+            <p>There are three things which cost deerely, and consume quickly, a faire woman, that is unchast, a rich garment, that hath many cuts, and a wealthy stocke, on an ill husband.</p>
+            <p>A foole cloathed in a gay garment, if he get any curtesie, may thanke his weede, not his wit.</p>
+            <p>He that wasteth his substance to follow e<g ref="char:EOLhyphen"/>very fashion, may be counted the Mercers friend, the Taylers foole, and his owne foe Byas.</p>
+            <p>If (by the Civill law) a childe may have a action in the cause, against him that shall de<g ref="char:EOLhyphen"/>face the portract of his father, how much will it displease God, if by artificiall painting we strive to correct his workemanship?</p>
+            <pb n="33" facs="tcp:119579:19"/>
+            <p> Philip (King Alexanders father) falling upon the sands, and seeing there the print of his body, said, how little a portion of ground nature is content with? And yet wee covet the whole world.</p>
+            <p>No man is so old, but that he thinketh he may live another yeere. Hierom.</p>
+            <p>The greatest thing that may be said to be contained in a little roome, is the soule in a mans body.</p>
+            <p>Cupid aloweth none in his Court, but such as are yong that can serve, fresh and beautifull to delight, wise that can talke, secret to keepe silence, faithfull to gratifie, and valiant to re<g ref="char:EOLhyphen"/>venge his Mistresse wrongs.</p>
+            <p>He that chuseth an apple by the skinne, and a man by his face, may be deceived in the one, and overshot in the other.</p>
+            <p>Every soule is either the spouse of Christ, or the adultresse of the Divell. Chrysostome.</p>
+            <p>It is a presage of good fortune to young Maides, when flowers fall from their hats, falshood from their hearts, and incontinency from their choyce.</p>
+            <p>Let men obey the lawes, and women their husbands. Socrates.</p>
+            <p>Choyce is soonest deceived in these three things; in brokers wares, courtiers promi<g ref="char:EOLhyphen"/>ses,
+<pb n="34" facs="tcp:119579:20"/>and womens constancies.</p>
+            <p>It is not meete that yong men should mar<g ref="char:EOLhyphen"/>ry yet, and old men never. Diogenes.</p>
+            <p>Reno the stoick, of all vertues commended silence, for by it saith he I heare other mens imperfections, and conceale mine owne.</p>
+            <p>If a man marry himselfe to one faire and dishonest, he weddeth himselfe to a world of misery, and if to one beautifull and never so honest, yet let him thinke this, he hath gotten a woman, and therefore a necessary evill.</p>
+            <p>It is better to marry a quiet foole, then a witty scould.</p>
+            <p>It is better to dye well, then to live wan<g ref="char:EOLhyphen"/>tonly. Socrates.</p>
+            <p>A good sentence proceeding from a wic<g ref="char:EOLhyphen"/>ked mans mouth loseth his grace.</p>
+            <p>The wayes to wickednes are many, plaine, and common, but to goodnesse but one, and that hard to finde because it is but seldome trodden.</p>
+            <p>It is a dishonest victory, that is gotten by the spoile of a mans owne Countrey. Cicero.</p>
+            <p>Cabistes the harlot was wont to say that she exiled Socrates, because she could draw away his auditors from him, no marvell quoth he, for thou allurest them to dishonesty, to which the way is plaine, but expose them
+<pb n="35" facs="tcp:119579:20"/>to vertue, whose way is hard to find.</p>
+            <p>Lust bringeth short life, prodigality wret<g ref="char:EOLhyphen"/>ched life, and perseverance in sin, eternall damnation.</p>
+            <p>Where youth is voide of exercise, there age is voide of honesty.</p>
+            <p>A proud heart in a begger, is like a great fire in a small cottage, which doth not only warme the house, but burne all that is in it.</p>
+            <p>Socrates when he saw Alciababes boasting of his great possessions, shewed him the map of the world, and asked him if he knew which were his lands in all the territories of others, who answered him, they were not there des<g ref="char:EOLhyphen"/>cribed, how is it then (saith Socrates) that thou boastest of that which is no part of the world?</p>
+            <p>He that is superfluous in his diet, sumptuous in his apparrell, and lavish of his tongue, is a Cookes hope, a Taylers thrift, and the son of repentance.</p>
+            <p>Who spends before he thrive, will begge before he thinke.</p>
+            <p>A proude eye, an open purse, and a light-wife, bring mischiefe to the first, misery to the second, and hornes to the third.</p>
+            <p>A covetous man in gathering wealth, pur<g ref="char:EOLhyphen"/>chaseth carefullnesse for himselfe, envy for his
+<pb n="36" facs="tcp:119579:21"/>neighbour, a prey for theeves, perill for his person, and damnation for his soule.</p>
+            <p>Usury maketh the Noble man sell his Lands, the Lawyer his Justinian, the Physitian his Gallen, the Souldier his Sword, the Marchant his Wares, and the World his Peace.</p>
+            <p>Philip King of Macedonia making war a<g ref="char:EOLhyphen"/>gainst the Persians, understood that they were a people given to all manner of delicious li<g ref="char:EOLhyphen"/>ving, retired his Army, saying, it was need<g ref="char:EOLhyphen"/>lesse to make war upon them, who would shortly overthrow themselves.</p>
+            <p>The first draught a man drinketh should be for thirst; the second, for nourishment; the third, for pleasure; and the fourth, for mad<g ref="char:EOLhyphen"/>nesse. Anacharsis.</p>
+            <p>It is observable at meales, that these few principalls be principally observed and kept; to pick no quarrells, to tell no longe tales, to tell no sad newes, to talke of no State mat<g ref="char:EOLhyphen"/>ters, to lay no wagers, to make no compari<g ref="char:EOLhyphen"/>sons, to take no tobacco, to propound no dif<g ref="char:EOLhyphen"/>ficult questions, &amp;c. But a merry, affable, and pleasant countenance, with conceited jests, seasoned with well relished discourse, is fit table talke.</p>
+            <p>He shall be knowne by the cogniscance of a foole, that forbeares his worke or his jour<g ref="char:EOLhyphen"/>ney,
+<pb n="37" facs="tcp:119579:21"/>because his Almanack sayes it will raine.</p>
+            <p>Sow not the seede of discention, lest thou reape the harvest of repentance.</p>
+            <p>St. Martin seeing a sheepe new shoare, said this sheep hath fulfilled the commande<g ref="char:EOLhyphen"/>ment, for she having two coats, hath parted with him that hath none.</p>
+            <p>He that looks upon a lewd woman with delight, is in his way to Hell, he that talkes with her, mends his pace, and he that injoyes her, is at his journies end.</p>
+            <p>To seeke gaine by wars, is wickednesse, by sea dangerous, but by husbandry lawfull.</p>
+            <p>As sheepe being on the plaine are driven into a thicket of brambles for shelter, lose their coates; so men being on the plaines of this world, and oppressed with a powerfull adversary, and flying to the Law for refuge, hardly escape without losing their substance.</p>
+            <p>The heart of a foole, is in his mouth, but the mouth of a wise man is in his heart.</p>
+            <p>The Scorpion if he touch never so lightly, invenometh the whole body, the least sparke of wildfire, setteth a whole house in a flame, the Cockatrice killeth men with her sight, the sting of love and beauty woundeth deadly, the flames of fancie setteth all the thoughts on fire, and the eyes of a Lover wounded
+<pb n="38" facs="tcp:119579:22"/>with beauty are counted uncurable.</p>
+            <p>Riches are painefull to fooles, and pover<g ref="char:EOLhyphen"/>ty pleasant to the wise.</p>
+            <p>Shape beautifies an Image, and good asti<g ref="char:EOLhyphen"/>ons commend a man.</p>
+            <p>He is not poore that hath little, but he that desireth much.</p>
+            <p>All new actions seeme faire, but they are but like a painted woman.</p>
+            <p>Nothing deserveth to be commended un<g ref="char:EOLhyphen"/>lesse it be vertuous.</p>
+            <p>Care not for poverty, since no man liveth basely as he was borne.</p>
+            <p>It is greater praise to helpe the helpelesse, then to maintaine the heedlesse.</p>
+            <p>As the shadow followeth the body; so praise followeth vertue. Seneca.</p>
+            <p>The Mouse that hath but one hole, is soone taken, and he that hath but one way to resist evill, is quickly overthrowne.</p>
+            <p>All errours by labour are cured, high mountaines levelled, and weake wit refined.</p>
+            <p>Gladnesse of heart causeth length of life; but griefe hastneth death.</p>
+            <p>Sith joyes are but short, take pleasure when it comes, for sorrowes headlong follow one another.</p>
+            <p>Pleasure amongst vertues, is like a harlot
+<pb n="39" facs="tcp:119579:22"/>amongst honest women, for by her flattery she destroyeth many.</p>
+            <p>Liberty in the minde, is a signe of goodnes, in the tongue, of foolishnesse, in the hands, of theft, and in our life, want of grace.</p>
+            <p>Like as a battered or crased ship, by drin<g ref="char:EOLhyphen"/>king in of water, not only drowneth her selfe, but all those that are in her: So a ruler, by u<g ref="char:EOLhyphen"/>sing viciousnesse, destroyeth not himselfe a<g ref="char:EOLhyphen"/>lone, but all those that are under his govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Hee that refuseth to by good counsell cheape, shall buy repentance too deere.</p>
+            <p>Beauty in the faces of women, and folly in their hearts, are to wormes that fretteth life, and wasteth goods.</p>
+            <p>Virgins hearts are like cotton-trees, whose fruit is so hard in the bud, that it soundeth like steele, but being ripe and put forth, is nothing but wall.</p>
+            <p>Like as to a shrewd horse belongeth a sharpe bridle; so a curst wife ought to be sharpely handled. Plato.</p>
+            <p>The rule for a woman to live by, is her husband, if he be obediant to the Lawes pub<g ref="char:EOLhyphen"/>lique.</p>
+            <p>If thy parents wax poore, supply their want with thy wealth, if froward with age,
+<pb n="40" facs="tcp:119579:23"/>beare patiently with their imperfections.</p>
+            <p>Be neither hasty, angry, nor wrathfull, for they are the conditions of a foole.</p>
+            <p>As it is impossible with one and the same eye, to behold Heaven and Earth; so is it im<g ref="char:EOLhyphen"/>possible with one disordinate will to love God and the world. August.</p>
+            <p>Vertue, is the Queen of labours, opinion, the Mistresse of fooles, vanity, the pride of nature, and contention the overthrow of fa<g ref="char:EOLhyphen"/>milies.</p>
+            <p>Apparrell thy selfe with justice, and cloath thy selfe with chastity; so shalt thou be hap<g ref="char:EOLhyphen"/>py and thy workes prosper.</p>
+            <p>Let vertue, be thy life, valour, thy love, and Heaven, thy felicity.</p>
+            <p>Fortitude without wisdome, is but rash<g ref="char:EOLhyphen"/>nesse, wisdome without justice, is but crafti<g ref="char:EOLhyphen"/>nesse, justice without temperance, is but cru<g ref="char:EOLhyphen"/>elty, temperance without fortitude, is but savagenesse.</p>
+            <p>As the tree is knowne by his fruit, the gold by the touch, and the bell by the sound; so is a mans birth by his benevolence, his honour by his humility, and his calling by his curte<g ref="char:EOLhyphen"/>sie.</p>
+            <p>As the Moone doth shew her light in the World, which she borroweth from the Sun;
+<pb n="41" facs="tcp:119579:23"/>so wee ought to bestow the benefits received of God, to the profit and commodity of our neighbours.</p>
+            <p>Bounty liath open hands, a zealous heart, a constant faith in earth, and a place prepared in heaven.</p>
+            <p>The way to live with honour, and dye with praise, is to be honest in our desires, and temperate in our tongues.</p>
+            <p>Happy is that man whom worldly plea<g ref="char:EOLhyphen"/>sures cannot draw from the contemplation of God, and whose life is a continuall prayer.</p>
+            <p>Not the rich but the wise, avoyd misery, and become happy and blessed.</p>
+            <p>The greatest floud hath the soonest ebbe, the sorest tempest, the suddainest calme, the hottest love the coldest end, and from the dee<g ref="char:EOLhyphen"/>pest desire oft-times proceedeth the deadliest hate.</p>
+            <p>A faire woman unconstant, may be compa<g ref="char:EOLhyphen"/>red to a counterfet, with particles made of Flora, before which if one stood directly, it did seeme to weepe, if on the left side to laugh, if one the right side, to sleepe.</p>
+            <p>
+               <hi>Famina nulla bona est, vel si bona contigit ulli, nescio quo facto modo res facta bona est.</hi>
+            </p>
+         </div>
+         <div type="collection_of_verses">
+            <pb facs="tcp:119579:24"/>
+            <head>Some Morall Sentences.</head>
+            <div type="verse">
+               <l>HE that hopes to thrive,</l>
+               <l>must rise at five:</l>
+               <l>He that hath thriven,</l>
+               <l>may lie till seven:</l>
+               <l>But he that will never thrive,</l>
+               <l>may lie till eleven.</l>
+               <l>Smoake, raine, and a very curst wife,</l>
+               <l>Makes a man weary of house and life.</l>
+            </div>
+            <div type="verse">
+               <l>The painfull wight hopes not to lack</l>
+               <l>Food, or cloathing to his back.</l>
+            </div>
+            <div type="verse">
+               <l>Wishers and woulders</l>
+               <l>Were never good house-holders.</l>
+            </div>
+            <div type="verse">
+               <l>A Popes Bull,</l>
+               <l>A dead mans skull,</l>
+               <l>And a crooked Trull,</l>
+               <l>Are not all worth a fleece of wooll.</l>
+            </div>
+            <div type="verse">
+               <pb facs="tcp:119579:24"/>
+               <l>A faire wife, a wide house, and a back-doore,</l>
+               <l>Will quickly make a rich man poore.</l>
+            </div>
+            <div type="verse">
+               <l>Thy sword, thy horse, and eke thy wife,</l>
+               <l>Lend not at all, lest it breed strife.</l>
+            </div>
+            <div type="verse">
+               <l>In choice of a wife let vertue be thy guide,</l>
+               <l>For beauty's a blossom that fadeth like pride,</l>
+               <l>And wealth without wisdome, will waste fast away,</l>
+               <l>If chast thoughts be lacking, all soone will decay.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
